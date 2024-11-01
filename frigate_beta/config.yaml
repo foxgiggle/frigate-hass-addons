@@ -1,5 +1,5 @@
-name: Frigate Hailo8l Beta
-version: ac8ddad-h8l
+name: Frigate latest Beta
+version: 9e1a50c
 breaking_versions:
   - 0.15.0-beta1
   - 0.14.1
