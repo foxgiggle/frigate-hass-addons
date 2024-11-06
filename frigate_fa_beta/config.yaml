@@ -21,6 +21,18 @@ ingress_entry: /
 panel_admin: false
 homeassistant_api: true
 hassio_api: true
+devices:
+  - /dev/dri/renderD128
+  - /dev/apex_0
+  - /dev/apex_1
+  - /dev/apex_2
+  - /dev/apex_3
+  - /dev/dri/card0
+  - /dev/vchiq
+  - /dev/video10
+  - /dev/video0
+  - /dev/hailo0
+  - /dev/video11
 ports:
   8555/tcp: 8555
   8555/udp: 8555
