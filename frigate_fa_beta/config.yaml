@@ -1,5 +1,5 @@
 name: Frigate latest (Full Access) Beta
-version: 5b1b6b5
+version: 474c248
 breaking_versions:
   - 0.15.0-beta1
   - 0.14.1
