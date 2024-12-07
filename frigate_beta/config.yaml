@@ -48,7 +48,7 @@ devices:
   - /dev/dri/card0
   - /dev/vchiq
   - /dev/video10
-  - /dev/video0
+  - /dev/video11
   - /dev/hailo0
 usb: true
 video: true
