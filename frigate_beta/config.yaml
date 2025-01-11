@@ -1,5 +1,5 @@
 name: Frigate latest Beta4 HL
-version: 0.15.0-beta4-h8l
+version: 173b7aa-h8l
 breaking_versions:
   - 0.15.0-beta3
   - 0.14.1
