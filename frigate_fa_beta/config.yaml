@@ -1,5 +1,5 @@
-name: Frigate latest (Full Access) Beta
-version: 474c248
+name: Frigate 16 Beta
+version: eb44331
 breaking_versions:
   - 0.15.0-beta1
   - 0.14.1
