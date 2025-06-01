@@ -1,5 +1,5 @@
 name: Frigate 16 Beta
-version: 63f9689-rpi
+version: 0.16.0-beta3
 breaking_versions:
   - 0.15.0-beta1
   - 0.14.1
