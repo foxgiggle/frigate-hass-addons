@@ -1,5 +1,5 @@
-name: Frigate (Full Access) Beta
-version: 0.16.1
+name: Frigate (Full Access) Beta 0.16.2
+version: 0.16.2
 breaking_versions:
   - 0.16.1
   - 0.16.0-rc4
